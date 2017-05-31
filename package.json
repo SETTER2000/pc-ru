@@ -1,0 +1,22 @@
+{
+  "name": "pc-ru",
+  "version": "0.1.0",
+  "description": "Production calendar for Russia. Holidays, weekends, working days, etc.",
+  "main": "pc-ru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SETTER2000/pc-ru.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "SETTER <info@appalachi.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SETTER2000/pc-ru/issues"
+  },
+  "homepage": "https://github.com/SETTER2000/pc-ru#readme"
+}
