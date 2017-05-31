@@ -15,4 +15,5 @@ pc.getCalendar();
  * '3'  март
  * и т.д.
  */
-pc.getHolidays(['1']);
+pc.getHolidays();
+pc.getHolidays(['1','2','3']);
